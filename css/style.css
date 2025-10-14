@@ -8266,8 +8266,8 @@ h1, h2, h3, h4, h5,
       background: #E2A16F;
       border: 1px solid #E2A16F; }
   .ftco-navbar-light .navbar-nav > .nav-item.cta.cta-colored a {
-    border: 1px solid #a0f669;
-    background: #a0f669 !important; }
+    border: 1px solid #73C8D2;
+    background: #73C8D2 !important; }
   .ftco-navbar-light .navbar-nav > .nav-item .nav-link.active {
     background: transparent;
     background: none;
@@ -8596,20 +8596,20 @@ h1, h2, h3, h4, h5,
         background: #E2A16F !important;
         color: #fff !important; }
   .btn.btn-secondary {
-    background: #a0f669 !important;
-    border: 1px solid #a0f669 !important;
+    background: #73C8D2 !important;
+    border: 1px solid #73C8D2 !important;
     color: #fff !important; }
     .btn.btn-secondary:hover {
-      border: 1px solid #a0f669 !important;
+      border: 1px solid #73C8D2 !important;
       background: transparent !important;
-      color: #a0f669 !important; }
+      color: #73C8D2 !important; }
     .btn.btn-secondary.btn-outline-primary {
-      border: 1px solid #a0f669;
+      border: 1px solid #73C8D2;
       background: transparent;
-      color: #a0f669; }
+      color: #73C8D2; }
       .btn.btn-secondary.btn-outline-primary:hover {
         border: 1px solid transparent;
-        background: #a0f669;
+        background: #73C8D2;
         color: #fff; }
   .btn.btn-white {
     background: #fff !important;
@@ -8921,13 +8921,13 @@ h1, h2, h3, h4, h5,
     bottom: 0;
     content: '';
     background: #E2A16F;
-    opacity: .7; }
+    opacity: .5; }
   .ftco-hireme h2 {
     color: #fff;
     font-size: 40px;
     font-weight: 900; }
     .ftco-hireme h2 span {
-      color: #a0f669; }
+      color: #73C8D2; }
   .ftco-hireme p {
     color: rgba(255, 255, 255, 0.9); }
 
@@ -9354,7 +9354,7 @@ textarea.form-control {
     margin-bottom: 4px;
     font-weight: 400; }
     .block-27 ul li a, .block-27 ul li span {
-      color: #a0f669;
+      color: #73C8D2;
       text-align: center;
       display: inline-block;
       width: 40px;
@@ -9363,7 +9363,7 @@ textarea.form-control {
       border-radius: 50%;
       border: 1px solid #cccccc; }
     .block-27 ul li.active a, .block-27 ul li.active span {
-      background: #a0f669;
+      background: #73C8D2;
       color: #fff;
       border: 1px solid transparent; }
 
