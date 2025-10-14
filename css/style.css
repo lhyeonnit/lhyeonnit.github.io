@@ -4343,7 +4343,7 @@ input[type="button"].btn-block {
   color: #fff;
   text-align: center;
   white-space: nowrap;
-  background-color: #007bff;
+  background-color: #E2A16D;
   -webkit-transition: width 0.6s ease;
   -o-transition: width 0.6s ease;
   transition: width 0.6s ease; }
@@ -5449,7 +5449,8 @@ button.bg-dark:focus {
   border-left: 0 !important; }
 
 .border-primary {
-  border-color: #007bff !important; }
+  /* border-color: #007bff !important;  */
+  border-color: #E2A16D !important; }
 
 .border-secondary {
   border-color: #6c757d !important; }
